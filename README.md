@@ -1,4 +1,4 @@
-# HireQuotient
+# HireQuotient.
 
 ### This is an interface for admins to see and delete users.
 
