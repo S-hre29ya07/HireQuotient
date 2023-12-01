@@ -1,6 +1,5 @@
 // Import necessary libraries and components
 import React, { useState, useEffect } from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import { Table, Button, InputGroup, FormControl,Pagination } from 'react-bootstrap';
 
 const App = () => {
